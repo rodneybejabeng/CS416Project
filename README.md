@@ -1,2 +1,2 @@
 # CS416Project
-Creat a Narrative Visualization
+Create a Narrative Visualization
